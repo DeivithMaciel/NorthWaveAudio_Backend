@@ -7,6 +7,6 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch bd.json --port 3000"
+    "dev": "json-server --watch --port 10000 --host 0.0.0.0"
   }
 }
