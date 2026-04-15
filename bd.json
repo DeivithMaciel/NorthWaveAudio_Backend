@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Wireless",
+            "slug": "wireless"
+        },
+        {
+            "id": 2,
+            "name": "Studio",
+            "slug": "studio"
+        },
+        {
+            "id": 3,
+            "name": "Gaming",
+            "slug": "gaming"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Aurora X Pro",
+            "price": 299.99,
+            "categoryId": 1,
+            "description": "Premium wireless headphones with active noise cancellation.",
+            "image": "/images/wireless/AuroraXPro.png",
+            "rating": 4.8,
+            "reviewsCounting": 124,
+            "features": [
+                "Noise Cancelling",
+                "40h Battery",
+                "Hi-Fi Sound"
+            ],
+            "inStock": true,
+            "brand": "NorthWave",
+            "createdAt": "2026-04-15"
+        },
+        {
+            "id": 2,
+            "name": "Boreal Studio Max",
+            "price": 199.99,
+            "categoryId": 2,
+            "description": "Studio-grade headphones for professional audio production.",
+            "image": "/images/studio/BorealStudioMax.png",
+            "rating": 4.6,
+            "reviewsCount": 89,
+            "features": [
+                "Flat Frequency",
+                "Wired",
+                "High Precision"
+            ],
+            "inStock": true,
+            "brand": "NorthWave",
+            "createdAt": "2026-04-10"
+        },
+        {
+            "id": 3,
+            "name": "Vortex GX Gaming",
+            "price": 149.99,
+            "categoryId": 3,
+            "description": "High-performance gaming headset with immersive surround sound and ultra-low latency.",
+            "image": "/images/gaming/VortexGX.png",
+            "rating": 4.7,
+            "reviewsCount": 210,
+            "features": [
+                "7.1 Surround Sound",
+                "Low Latency Mode",
+                "RGB Lighting",
+                "Detachable Mic",
+                "Cross-Platform (PC, PS5, Xbox, Nintendo)"
+            ],
+            "inStock": true,
+            "brand": "NorthWave",
+            "createdAt": "2026-04-15"
+            }
+    ]
+}

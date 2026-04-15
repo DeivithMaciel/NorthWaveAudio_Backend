@@ -1,0 +1,12 @@
+{
+  "name": "northwaveaudio_back",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch bd.json --port 3000"
+  }
+}
